@@ -6,3 +6,4 @@
 | REFACTOR | 코드 리팩토링 |
 | STYLE | 형식 바꾸기 |
 | DOCS | 문서 수정 |
+| DELETE | 코드 삭제 |
